@@ -1,0 +1,18 @@
+.cache/
+
+node_modules/
+public
+
+yarn-error.log
+
+.DS_Store
+
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional REPL history
+.node_repl_history
+
+# Optional npm cache directory
+.npm
